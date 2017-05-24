@@ -1,0 +1,104 @@
+
+PS C:\Users\kofis_000\desktop\dojoassignments> ls -R
+
+
+    Directory: C:\Users\kofis_000\desktop\dojoassignments
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        5/23/2017  12:31 PM                iOS
+d-----        5/23/2017  12:30 PM                MEAN
+d-----        5/23/2017  12:31 PM                netCore
+d-----        5/23/2017  12:29 PM                Python
+d-----        5/23/2017  12:30 PM                Ruby
+d-----        5/23/2017  12:32 PM                WebFundamentals
+-a----        5/23/2017  12:40 PM              0 assignments.txt
+
+
+    Directory: C:\Users\kofis_000\desktop\dojoassignments\iOS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        5/23/2017  12:31 PM              0 about.txt
+
+
+    Directory: C:\Users\kofis_000\desktop\dojoassignments\MEAN
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        5/23/2017  12:30 PM              0 about.txt
+
+
+    Directory: C:\Users\kofis_000\desktop\dojoassignments\netCore
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        5/23/2017  12:31 PM              0 about.txt
+
+
+    Directory: C:\Users\kofis_000\desktop\dojoassignments\Python
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        5/23/2017  12:29 PM              0 about.txt
+
+
+    Directory: C:\Users\kofis_000\desktop\dojoassignments\Ruby
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        5/23/2017  12:30 PM              0 about.txt
+
+
+    Directory: C:\Users\kofis_000\desktop\dojoassignments\WebFundamentals
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        5/23/2017  12:34 PM                CSS
+d-----        5/23/2017  12:33 PM                Git
+d-----        5/23/2017  12:34 PM                HTML
+d-----        5/23/2017  12:34 PM                Javascript
+-a----        5/23/2017  12:29 PM              0 about.txt
+
+
+    Directory: C:\Users\kofis_000\desktop\dojoassignments\WebFundamentals\CSS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        5/23/2017  12:34 PM              0 about.txt
+
+
+    Directory: C:\Users\kofis_000\desktop\dojoassignments\WebFundamentals\Git
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        5/23/2017  12:33 PM              0 about.txt
+
+
+    Directory: C:\Users\kofis_000\desktop\dojoassignments\WebFundamentals\HTML
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        5/23/2017  12:33 PM              0 about.txt
+-a----        5/23/2017  12:34 PM              0 Indentation.html
+
+
+    Directory: C:\Users\kofis_000\desktop\dojoassignments\WebFundamentals\Javascript
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        5/23/2017  12:34 PM              0 about.txt
+
+
+PS C:\Users\kofis_000\desktop\dojoassignments>
