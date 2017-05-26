@@ -1,0 +1,155 @@
+
+
+.wrapper {
+    background-color: #483D35;
+    width: 78%;
+    padding: 15px;
+}
+
+.titleTop {
+    background-color:#DCDCDC;
+    width: 80.25%;
+    height: 60px;
+    display: inline-block;
+     
+}
+    .titleTop h1,h3{
+        display: inline-block;
+        line-height: 10px;
+    }
+    .titleTop h3{
+        position: relative;
+        left: 600px;
+    }
+ 
+.remarks {
+    text-align: right;
+}
+
+.about {
+    width: 50%;
+    height: 285px;
+    background-color: #898795;
+    padding: 10px;
+    border: 5px solid white;
+    float: right;
+}
+
+h2 {
+    background-color:#696969;
+    margin: -10px -10px 0px;
+    padding: 10px;
+    width: auto;
+    color: white;
+}
+
+#portrait {
+    width:45%;
+    display: inline-block;
+    Border: 5px solid white; 
+}
+
+
+
+.topics img {
+    width: 300px;
+    display:inline-block;
+}
+
+.topics h2 {
+    background-color:#696969;
+    margin: -10px -10px 0px;
+    padding: 10px;
+    width: 300px;
+    color: white;
+    
+}
+
+.topics p {
+    text-align: justify;
+    width: 300px; 
+    
+}
+.topics p img {
+    width: 30px;
+}
+
+.info {
+    vertical-align: top;
+    display:inline-block;
+    background-color: white;
+    width: 300px;
+    height: 620px;
+    Border: 10px 10px;
+    margin: 10px 10px;
+    padding: 10px;
+}
+
+.info p {
+    height: 175px;
+}
+.family {
+    background-color: white;
+    display: inline-block;
+    width: 300px;
+    height: 620px;
+    Border: 10px 10px;
+    margin: 10px 10px;
+    padding: 10px;
+}
+
+.five {
+    display:inline-block;
+    background-color: white;
+    width: 300px;
+    height: 620px;
+    Border: 10px 10px;
+    margin: 10px 10px;
+    padding: 10px;
+}
+
+.tech {
+    vertical-align: bottom;
+}
+.tech p img {
+    width: 35px;
+    margin: 5px;
+}
+
+button {
+    border: 10px;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 50px 10px 10px -20px;
+    background-color: green;
+    text-align:center;
+    vertical-align: top;
+    display: inline-block;
+    color: white;
+
+}
+a.name {
+    color: white solid;
+}
+
+.footer img {
+    width:20px;
+}
+
+.footer {
+    background-color:#DCDCDC;
+    width: auto;
+    margin: -15px;
+}
+
+.footer p {
+    text-align: center;
+}
+
+.logos {
+    text-align: center;
+}
+
+p,a {
+    font-family: sans-serif;
+}
