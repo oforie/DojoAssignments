@@ -1,0 +1,184 @@
+
+.wrapper {
+    width: 970px;
+    background-color:#415A99;
+    
+}
+
+.header {
+    height: 150px;
+    border: 10px;
+    margin: 10px;
+}
+
+.header img {
+    width: 375px;
+}
+
+#black {
+    margin: auto;
+    padding-left: 15px;
+    border-radius: 10px;
+    background-color: black;
+}
+
+.icon {
+    border-left: 10px;
+}
+button {
+    color: white;
+    background-color: #415A99;
+    border: 1px solid white;
+    margin: 20px 20px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+#container {
+    border-radius: 5px;
+    border-left: 10px;
+    color: black;
+}
+#box {
+    margin-left: 680px;
+    margin-top: -110px;
+    vertical-align: top;
+    text-align: center;
+    display: inline-block;
+}
+
+#box p span {
+    color: black;
+}  
+
+#box a {
+    color: #D1A953;
+}
+
+#box p {
+    color: white;
+} 
+
+.nav {
+    background-color: #6F89C6;
+    width: 90%;
+    border-radius: 5px;
+    border-bottom: 2px solid;
+    border-right: 2px solid;
+    padding: 10px;
+    margin-left: 55px;
+    margin-bottom: 5px;
+    text-align: center;
+    word-spacing: 50px;
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    word-spacing: 20px;
+    display: inline-block;
+}
+
+.main-content {
+    display: inline-block;
+}
+.menu {
+    margin: 0px 0px 20px 40px;
+    padding: 20px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+}
+
+.menu a {
+    color: white;
+    text-align: center;
+}
+
+.menu span {
+    color: #D1A953;
+}
+
+#summary {
+display: inline-block;
+    width: 70%;
+    color: white;
+    vertical-align: top;
+    margin-left: 50px;
+    text-align: center;
+}
+
+.emphasis p {
+    color: #D1A953;
+    font-style: oblique;
+    font-size: 20px;
+}
+
+#zen {
+    color: white;
+}
+
+.desc {
+    text-align: center;
+    margin-top: -220px;
+    margin-left: 85px;
+}
+
+.bullets {
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    border-top: -10px;
+}
+
+.applications {
+    display: inline-block;
+    width: 400px;
+    vertical-align: top;
+    margin: 10px;
+    margin-bottom: 0px;
+    margin-top:5px;
+    border-top: 3px solid #5FA5D3;
+    padding: 0px;   
+}
+
+li {
+    list-style-type: square;
+   
+}
+
+span {
+    color: #5FA5D3;
+}
+
+ul {
+    color: #5FA5D3;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 20px;
+    border-bottom: 5px;
+    color:#5FA5D3;
+    padding: 3px;
+}
+.footer ul {
+    list-style: none;
+}
+
+.footer li {
+    display: inline;
+    margin: 20px;
+}
+
+.footer p {
+    color: #5FA5D3;
+    font-size: 12px;
+    word-spacing: 40px;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #5FA5D3;
+}
