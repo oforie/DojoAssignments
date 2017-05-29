@@ -1,0 +1,4 @@
+Favorite animal:
+
+Name: Elephant
+Reason: Size and power
