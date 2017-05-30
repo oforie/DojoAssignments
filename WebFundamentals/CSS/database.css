@@ -1,0 +1,146 @@
+.wrapper {
+    width: 1195px;
+    margin-left: auto;
+    margin-right: auto;
+    background:radial-gradient(#6A5ACD, black);
+    margin-top:0px;
+}
+
+.header {
+    height: 130px;
+    background:linear-gradient(#D3D3D3, white);
+}
+
+#badge {
+    display: inline-block;
+    width: 180px;
+    height: 103px;
+    margin-left: 5px;
+}
+
+h3 {
+    display: inline-block;
+    margin-left: 785px;
+    vertical-align: top;
+    margin-top: -75px;
+}
+
+.menu {
+    background-color: white;
+    border: 20px;
+    margin-left: -40px;
+    margin-top: -25px;
+    margin-bottom: 0px;
+}
+
+li {
+    list-style: none;
+    text-decoration: underline;
+    Color: Blue;
+    display: inline-block;
+    border: 1px solid black;
+    padding: 10px 50px;
+}
+
+#blank {
+    padding: 19px 25px;
+    margin-bottom: -15px;
+    margin-right: -10px;
+}
+
+.intro {
+    display: inline-block;
+    width: 1100px;
+    margin-left: 40px;
+    margin-top: 0px;
+
+}
+
+#dtbase {
+    width: 650px;
+    height: 400px;
+    display: inline-block;
+    margin: 15px 15px 0px 10px;
+    border: 10px solid grey;
+
+}
+
+.summary {
+    background: linear-gradient(white, #D3D3D3);
+    display: inline-block;
+    vertical-align: top;
+    width: 400px;
+    height: 408px;
+    margin-top: 25px;
+}
+
+.summary h4 {
+    margin-top: -10px;
+}
+
+.summary p, h5 {
+    padding: 10px;
+}
+
+.mid-content {
+    display: inline-block;
+    height: 50px;
+    text-align: right;
+    margin-left:995px;
+    margin-bottom:5px;
+    margin-top: 0px;
+}
+
+
+#icon {
+    width: 30px;
+    display: inline-block;
+}
+h6 {
+    color:#2B9BD8;
+    display: inline-block;
+    margin-top: -5px;
+}
+
+.main-content {
+    margin-left: 40px;
+    margin-top: -25px;
+    
+}
+.main {
+    width: 255px;
+    height: 540px;
+    margin: 10px;
+    padding: 0px;
+    border-top: 0px;
+    display: inline-block;
+    vertical-align: top;
+    background:linear-gradient(#6495ED,white);
+}
+
+.main p {
+    height: 230px;
+    padding: 5px;
+}
+
+h4 {
+    background: linear-gradient(white, grey, white);
+    padding: 10px;
+    margin-bottom: -5px;
+    margin-top:-5px;
+}
+
+.pic {
+    width: 255px;
+    height: 180px;
+}
+
+button {
+    color: white;
+    background-color:#6495ED;
+    border: 3px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    margin-left: 130px;
+    margin-top: -10px;
+}
