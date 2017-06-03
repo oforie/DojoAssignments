@@ -1,0 +1,22 @@
+var negtwenty = -20
+	console.log(negtwenty);
+var zero = 0
+	console.log(zero)
+var seventeen = 17
+	console.log(seventeen);
+var thousand = 1000
+	console.log(thousand);
+
+
+var string1 = "Rain"
+	console.log(string1 + "jacket");
+var string2 = "Russia"
+	console.log("I am going to" + string2);
+var string3 = "Rainbow"
+	console.log(string3);
+
+var go = Yes
+var come = False
+
+
+
