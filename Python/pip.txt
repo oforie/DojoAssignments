@@ -1,0 +1,25 @@
+1.pip install Django: Commnand to retrieve Django installation files and execute on the local machine.
+
+2.pip list: Shows a list of installed programs Djgo and Python along with setup tools. It includes a default format explained under DEPRECATION.
+Output:DEPRECATION: The default format will switch to columns in the future. You can use --format=(legacy|columns) (or define a format=(legacy|columns) in your pip.conf under the [list] section) to disable this warning.
+Django (1.11.2)
+pip (9.0.1)
+pytz (2017.2)
+setuptools (16.0)
+
+3. pip install Django:
+Output: $ pip install Django
+Requirement already satisfied: Django in c:\python27\lib\site-packages
+Requirement already satisfied: pytz in c:\python27\lib\site-packages (from Django)
+
+4. pip freeze: || Provides installed version numbers of Django and Python whereas pip list gives the same information along with info on default format under DEPRECATION.
+Output: Django==1.11.2
+pytz==2017.2 
+
+5. pip freeze > requirements.txt saves a copy of requirements.txt in the desktop directory. "ls" shows the requirement.txt file in my desktop directory.
+
+6. pip uninstall Django
+This command seemed to run unend in GitBash. Worked perfectly in PowerShell. Asked me to confirm uninstallation. 
+
+7. pip search flask:
+This command produced practically every information about Flask - from version number to the various details of the program alonbg with descriptive paragraphs of what the various sections do.
